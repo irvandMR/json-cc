@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  </head>
+  <body>
+    <div id="app">
+  
+        <select v-model="sort" @change="filter">
+             <option value="1" >Active</option>
+             <option value="0" >In-Active</option>
+         </select>
+       
+      </div>
+          
+      <script type="text/javascript">
+          
+          var app = new Vue({
+             el: '#app',
+      
+             data(){
+                  return {
+                      sort:'',
+                  }
+              },
+              methods: {
+                  filter() {
+                    var data = this.sort;
+                    console.log(data);
+                }
+              },
+          })
+          
+      </script>
+           
+      </body>
+  </body>
+</html>

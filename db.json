@@ -1,0 +1,162 @@
+{
+  "job": [
+    {
+      "id": 1,
+      "kode": "J01",
+      "judul": "Frontend",
+      "Tempat": "Jakarta",
+      "kantor": "Samsung",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 2,
+      "kode": "J02",
+      "judul": "Backend",
+      "Tempat": "Semarang",
+      "kantor": "Apple",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 3,
+      "kode": "J03",
+      "judul": "UI/UX",
+      "Tempat": "Tangerang",
+      "kantor": "Xiaomi",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 4,
+      "kode": "J04",
+      "judul": "QA",
+      "Tempat": "Bandung",
+      "kantor": "Lenovo",
+      "deskripsi": "deskripsi"
+    }
+  ],
+  "alljob": [
+    {
+      "id": 1,
+      "kode": "J01",
+      "judul": "Frontend",
+      "Tempat": "Jakarta",
+      "waktu": 1,
+      "kantor": "Samsung",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 2,
+      "kode": "J02",
+      "judul": "Backend",
+      "Tempat": "Semarang",
+      "waktu": 3,
+      "kantor": "Apple",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 3,
+      "kode": "J03",
+      "judul": "UI/UX",
+      "Tempat": "Tangerang",
+      "waktu": 2,
+      "kantor": "Xiaomi",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 4,
+      "kode": "J04",
+      "judul": "QA",
+      "Tempat": "Bandung",
+      "waktu": 1,
+      "kantor": "Lenovo",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 5,
+      "kode": "J05",
+      "judul": "IT Staff",
+      "Tempat": "Lampung",
+      "waktu": 2,
+      "kantor": "SASS",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 6,
+      "kode": "J06",
+      "judul": "Marketing",
+      "Tempat": "Makasar",
+      "waktu": "Internship",
+      "kantor": "Steel",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 7,
+      "kode": "J07",
+      "judul": "Ilustrator",
+      "Tempat": "Surabaya",
+      "waktu": 1,
+      "kantor": "QSS",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 8,
+      "kode": "J08",
+      "judul": "Seles",
+      "Tempat": "Jogja",
+      "waktu": 2,
+      "kantor": "Jaya",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 9,
+      "kode": "J09",
+      "judul": "Graphic Desain",
+      "Tempat": "Pekanbaru",
+      "waktu": "Internship",
+      "kantor": "I kea",
+      "deskripsi": "deskripsi"
+    },
+    {
+      "id": 10,
+      "kode": "J010",
+      "judul": "Desain interior",
+      "Tempat": "Palembang",
+      "waktu": 1,
+      "kantor": "Int",
+      "deskripsi": "deskripsi"
+    }
+  ],
+  "event": [
+    {
+      "id": 1,
+      "judul": "even1",
+      "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 2,
+      "judul": "even2",
+      "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 3,
+      "judul": "even3",
+      "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ],
+  "info": [
+    {
+      "id": 1,
+      "judul": "info1",
+      "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry...."
+    },
+    {
+      "id": 2,
+      "judul": "info2",
+      "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry...."
+    },
+    {
+      "id": 3,
+      "judul": "info3",
+      "deskripsi": "Lorem Ipsum is simply dummy text of the printing and typesetting industry...."
+    }
+  ]
+}
